@@ -1,0 +1,5 @@
+package com.Springboot.Myproject.Service;
+
+public class InsuranceModelService {
+
+}
